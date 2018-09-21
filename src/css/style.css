@@ -54,7 +54,7 @@ img {
     margin: 0 !important;
   }
 .navbar-default .navbar-brand {
-    //background: #dc5034;
+    /*background: #dc5034;*/
     color: #fff;
     font-weight: bold;
     font-size: 30px;
@@ -528,3 +528,7 @@ footer span {
 .carousel-control.left, .carousel-control.right {
     background-image: none;
 }
+
+.icon-ir {
+  background: url('../images/icons/ir.png')no-repeat;
+  }
